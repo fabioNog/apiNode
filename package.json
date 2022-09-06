@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fabioNog/apiNode/issues"
   },
-  "homepage": "https://github.com/fabioNog/apiNode#readme"
+  "homepage": "https://github.com/fabioNog/apiNode#readme",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
 }
